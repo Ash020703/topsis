@@ -10,14 +10,14 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     setup_requires=['wheel'],
-    name="Topsis-Khushi-102103624",
+    name="Topsis-Ashmeet-102103742",
     version="1.0.0",
     description="Performs TOPSIS",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/Khushibansal15/Topsis-Implementation",
-    author="Khushi Bansal",
-    author_email="bansalkhushi1505@gmail.com",
+    url="https://github.com/Ash020703/topsis",
+    author="Ashmeet Kaur",
+    author_email="ash0207030@gmail.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
