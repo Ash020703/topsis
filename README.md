@@ -2,15 +2,15 @@
 
 # Topsis
 
-for: *Project-1 (UCS654)* submitted by: *Khushi Bansal* Roll no: 102103624 Group: *3CO22*
+for: *Project-1 (UCS654)* submitted by: *Ashmeet Kaur* Roll no: 102103742 Group: *3CO26*
 
-Topsis-Khushi-102103624 is a Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
+Topsis-Ashmeet-102103742 is a Python library for dealing with Multiple Criteria Decision Making(MCDM) problems by using Technique for Order of Preference by Similarity to Ideal Solution(TOPSIS).
 
 ## Installation
 
 Use the package manager pip to install topsis.
 
-```pip install Topsis-Khushi-102103624```
+```pip install Topsis-Ashmeet-102103742```
 
 ## Usage
 Enter csv filename followed by .csv extentsion, then enter the weights vector with vector values separated by commas, followed by the impacts vector with comma separated signs (+,-)
